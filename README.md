@@ -1,2 +1,2 @@
 # README
-https://dashboard.heroku.com/apps/hidden-mountain-76109
+https://hidden-mountain-76109.herokuapp.com/
